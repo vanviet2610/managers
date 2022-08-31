@@ -1,0 +1,2 @@
+<?php
+$configs["session"] = "viet";
